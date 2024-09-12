@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ikuutayuq
+- 👋 Hi, I’m @frankpapadakis
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java/c++
+
 
 
 <!---
